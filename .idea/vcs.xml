@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../GitDemoProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../OOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PWAF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Snake-Pygame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../WarehouseManagementProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../selenium-python-framework" vcs="Git" />
+  </component>
+</project>
